@@ -25,6 +25,7 @@ function draw() {
     setup();
   }
 
+  text("Press space key to shoot and use the arrow keys to move",5,35);
 }
 
 
